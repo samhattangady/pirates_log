@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="ship-container">
+  <div class="ship">
+    <img class="ship-img" src="/img/ship1.PNG"></img>
+    <img class="ocean" src="/img/ocean.png"></img>
+  </div>
+</div>
+<h2 id="welcome"> {{ .Site.Params.IndexGreeting }} </h2>
+<hr></hr>
+<p>{{ .Site.Params.IndexMessage }}</p>
+<hr></hr>
+<div class="categories">
+  <h3><a href="/about">ABOUT</a></h3>
+  <h3><a href="/about">POSTS</a></h3>
+  <h3><a href="/about">LOGS</a></h3>
+</div>
+<hr></hr>
+<h2 id="entries"> Entries </h2>
+<div class="entry-link">
+  <h3><a href="."> The Process of Falling in Love over Spotify </a></h3>
+  <p class="entry-info"> [Last updated 16 Nov 2021] </p>
+</div>
+<div class="entry-link">
+  <h3><a href="."> Advertising is Dangerous</a></h3>
+  <p class="entry-info"> [Last updated 16 Nov 2021] </p>
+</div>
+<div class="entry-link">
+  <h3><a href="."> The Process of Falling in Love over Spotify </a></h3>
+  <p class="entry-info"> [Last updated 16 Nov 2021] </p>
+</div>
+<div class="entry-link">
+  <h3><a href="."> Advertising is Dangerous</a></h3>
+  <p class="entry-info"> [Last updated 16 Nov 2021] </p>
+</div>
+<div class="entry-link">
+  <h3><a href="."> The Process of Falling in Love over Spotify </a></h3>
+  <p class="entry-info"> [Last updated 16 Nov 2021] </p>
+</div>
+<div class="entry-link">
+  <h3><a href="."> Advertising is Dangerous</a></h3>
+  <p class="entry-info"> [Last updated 16 Nov 2021] </p>
+</div>
+{{ .Content }}
+    {{ range where .Site.RegularPages.Reverse "File.Dir" "lyrics/" }}
+    <div class="entry">
+        <p class="hindi"> {{ .Params.Hindi }} </p>
+        <p class="english"> {{ .Params.English }} </p>
+        <div class="details">
+            <p class="song item"> <strong>Song:</strong> {{ .Params.Title }} </p>
+            <p class="film item"> <strong>Film:</strong> {{ .Params.Film }} </p>
+            <p class="link item"><a href={{ .Params.Link }} target="_blank"> Link </a> </p>
+        </div>
+    </div>
+    {{ end }}
+{{- partial "footer.html" . -}}
+{{ end }}

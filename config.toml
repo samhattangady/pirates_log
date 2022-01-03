@@ -1,0 +1,10 @@
+baseURL = "https://notebook.samhattangady.com/"
+languageCode = "en-us"
+title = "Konkan Coast Pirate Solutions"
+theme = "notebook"
+
+[params]
+siteHeader = "konkan coast pirate solutions"
+siteSubheader = "building a game about building a startup that caters to various pirate shenanigans"
+indexGreeting = "a website about the process of working on a game"
+indexMessage = "Konkan Coast Pirate Solutions is a game about a bunch of boys working on their startup. They believe that they have found their own little niche in the pirate industry, a product that will turn an entire industry on its skull. Do they have what it takes? The only way to find out is by setting sail."
