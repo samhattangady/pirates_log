@@ -103,7 +103,12 @@ body {
     justify-content: center;
     padding-top: 2em;
 }
-.screener-1 {
+.screener1 {
+    max-width: 500px;
+    width: 80vw;
+}
+#welcome {
+    text-align: center;
 }
 
 .log-header-message {
