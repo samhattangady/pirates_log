@@ -1,0 +1,20 @@
+{{ define "main" }}
+<h2> logs </h2>
+  <p class="log-header-message"> I try to keep a regular log of day to day activities with regards to progress on the development
+  of the game. I expect the logs to be updated more regularly than the posts </p>
+      <hr></hr>
+	{{- range .Data.Pages -}}
+      <div class="log-entry">
+        <div class="log-date">
+          {{ dateFormat "Jan 02, 2006" .Date }} 
+        </div>
+        <div class="log-data">
+          <p>
+        {{ .Content }}
+        </p>
+        </div>
+      </div>
+      <hr></hr>
+  {{ end }}
+{{- partial "footer.html" . -}}
+{{ end }}

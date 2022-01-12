@@ -1,0 +1,9 @@
+{{ define "main" }}
+<h1> about </h1>
+	{{- range .Data.Pages -}}
+    {{ if eq .Title  "About Main Page. Rest will now work" }}
+      {{ .Content }}
+    {{ end}}
+  {{ end }}
+{{- partial "footer.html" . -}}
+{{ end }}

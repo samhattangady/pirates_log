@@ -1,0 +1,19 @@
+{{ define "main" }}
+<h1> posts </h1>
+  <p class="post-header-message">
+      Posts are longer form essays, with the aim of sharing interesting things about
+      the game and the development process. Since a post takes more effort in writing, they may be
+      few and far between.
+  </p>
+	{{- range .Data.Pages -}}
+  <hr></hr>
+		<div class="post">
+      <h3><a class="post-link"href="{{ .RelPermalink }}">{{.Title}}</a></h3> <span class="post-date">{{ dateFormat "Jan 2, 2006" .Date }}</span>
+		</div>
+    <div class="post-subtitle">
+      {{ .Params.Subtitle }}
+      <span class="post-read"> <a class="post-link"href="{{ .RelPermalink }}">[read post]</a> </span>
+    </div>
+  {{ end }}
+{{- partial "footer.html" . -}}
+{{ end }}
