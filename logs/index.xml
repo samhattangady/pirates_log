@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on Konkan Coast Pirate Solutions</title>
+    <link>https://notebook.samhattangady.com/logs/</link>
+    <description>Recent content in Logs on Konkan Coast Pirate Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 20:12:21 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/4/</link>
+      <pubDate>Wed, 12 Jan 2022 20:12:21 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/4/</guid>
+      <description>Mostly completed the terrain generation stuff. Some polish remaining. Also created the website.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/3/</link>
+      <pubDate>Mon, 10 Jan 2022 15:48:58 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/3/</guid>
+      <description>Ported over the basic terrain generation code to use newer renderer features.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/2/</link>
+      <pubDate>Fri, 07 Jan 2022 15:48:53 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/2/</guid>
+      <description>Procedurally generated wooden texture for use as background in level select screens. Each level is now on a postit.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/1/</link>
+      <pubDate>Wed, 05 Jan 2022 15:46:52 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/1/</guid>
+      <description>Worked on animating the various tokens on the board</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/0/</link>
+      <pubDate>Mon, 24 May 2021 20:14:30 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/0/</guid>
+      <description>Apparently the first commit on this project. Before that the codebase was being built for some other prototype.</description>
+    </item>
+    
+  </channel>
+</rss>

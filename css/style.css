@@ -98,6 +98,72 @@ body {
     mask-image: linear-gradient(to right, #00000000, rgba(0,0,0,1), rgba(0,0,0,0));
     -webkit-mask-image: linear-gradient(to right, #00000000, rgba(0,0,0,1), rgba(0,0,0,0));
 }
+.screener-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+}
+.screener-1 {
+}
+
+.log-header-message {
+    color: #999999;
+    margin-top: -0.7em;
+    font-family: "Sanchez", serif;
+}
+.log-entry {
+    display: flex;
+    align-items: center;
+}
+.log-date {
+    min-width: 8em;
+    font-family: "Sanchez", serif;
+    color: #3399cc;
+    font-weight: 400;
+    font-size: 1.1em;
+}
+.log-data {
+    flex-grow: 1;
+}
+
+.post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.post-header-message {
+    color: #999999;
+    margin-top: -1.0em;
+    font-family: "Sanchez", serif;
+}
+.post-date {
+    color: #999999;
+}
+.post-subtitle {
+    margin-top: -0.4em;
+}
+.post-read {
+    margin-bottom: 0.1em;
+}
+.post-link {
+    float: right;
+
+}
+.post-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.post-page-date {
+    color: #999999;
+    font-size: 1.2em;
+    margin-top: 0.6em;
+}
+.post-page-subheader {
+    color: #999999;
+    margin-top: -1.0em;
+    font-family: "Sanchez", serif;
+}
 
 @keyframes sailing {
   0% {
@@ -147,6 +213,14 @@ body {
 .categories {
     display: flex;
     justify-content: space-around;
+}
+
+h1 {
+    font-family: "Sanchez", serif;
+    color: #3399cc;
+    font-weight: 400;
+    font-size: 2.0em;
+    margin-bottom: 0.5em;
 }
 
 

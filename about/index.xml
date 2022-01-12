@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Konkan Coast Pirate Solutions</title>
+    <link>https://notebook.samhattangady.com/about/</link>
+    <description>Recent content in Abouts on Konkan Coast Pirate Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://notebook.samhattangady.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Main Page. Rest will now work</title>
+      <link>https://notebook.samhattangady.com/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/about/about/</guid>
+      <description>Konkan Coast Pirate Solutions is a puzzle game about a bunch of boys working on their startup. They believe that they have found their own little niche in the pirate industry, a product that will turn an entire industry on its skull. Do they have what it takes? The only way to find out is by setting sail on the voyage along with them.
+The bulk of the puzzles in the game are presented on a grid.</description>
+    </item>
+    
+  </channel>
+</rss>

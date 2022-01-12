@@ -5,6 +5,81 @@
     <link>https://notebook.samhattangady.com/</link>
     <description>Recent content on Konkan Coast Pirate Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://notebook.samhattangady.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 20:12:21 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/4/</link>
+      <pubDate>Wed, 12 Jan 2022 20:12:21 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/4/</guid>
+      <description>Mostly completed the terrain generation stuff. Some polish remaining. Also created the website.</description>
+    </item>
+    
+    <item>
+      <title>Creating A Website</title>
+      <link>https://notebook.samhattangady.com/posts/init/</link>
+      <pubDate>Wed, 12 Jan 2022 19:38:07 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/posts/init/</guid>
+      <description>Konkan Coast Pirate Solutions is a game that I have been working on for the past few months. I had developed the initial prototype somewhere in the middle of 2021, but was buisy with other things for most of the year. However, the idea stuck.
+There were some very interesting interactions that kept arising out of a fairly straightforward system, and the was very exciting for me as a designer. Now, at the start of 2022, I have decided that I would like to commit myself to this game for the next six to eight months, with the goal of having a pitchable slice of the game ready.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/3/</link>
+      <pubDate>Mon, 10 Jan 2022 15:48:58 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/3/</guid>
+      <description>Ported over the basic terrain generation code to use newer renderer features.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/2/</link>
+      <pubDate>Fri, 07 Jan 2022 15:48:53 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/2/</guid>
+      <description>Procedurally generated wooden texture for use as background in level select screens. Each level is now on a postit.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/1/</link>
+      <pubDate>Wed, 05 Jan 2022 15:46:52 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/1/</guid>
+      <description>Worked on animating the various tokens on the board</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/0/</link>
+      <pubDate>Mon, 24 May 2021 20:14:30 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/0/</guid>
+      <description>Apparently the first commit on this project. Before that the codebase was being built for some other prototype.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://notebook.samhattangady.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/about/</guid>
+      <description>Content here.</description>
+    </item>
+    
+    <item>
+      <title>About Main Page. Rest will now work</title>
+      <link>https://notebook.samhattangady.com/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/about/about/</guid>
+      <description>Konkan Coast Pirate Solutions is a puzzle game about a bunch of boys working on their startup. They believe that they have found their own little niche in the pirate industry, a product that will turn an entire industry on its skull. Do they have what it takes? The only way to find out is by setting sail on the voyage along with them.
+The bulk of the puzzles in the game are presented on a grid.</description>
+    </item>
+    
   </channel>
 </rss>

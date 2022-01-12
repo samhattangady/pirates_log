@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Konkan Coast Pirate Solutions</title>
+    <link>https://notebook.samhattangady.com/posts/</link>
+    <description>Recent content in Posts on Konkan Coast Pirate Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 19:38:07 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating A Website</title>
+      <link>https://notebook.samhattangady.com/posts/init/</link>
+      <pubDate>Wed, 12 Jan 2022 19:38:07 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/posts/init/</guid>
+      <description>Konkan Coast Pirate Solutions is a game that I have been working on for the past few months. I had developed the initial prototype somewhere in the middle of 2021, but was buisy with other things for most of the year. However, the idea stuck.
+There were some very interesting interactions that kept arising out of a fairly straightforward system, and the was very exciting for me as a designer. Now, at the start of 2022, I have decided that I would like to commit myself to this game for the next six to eight months, with the goal of having a pitchable slice of the game ready.</description>
+    </item>
+    
+  </channel>
+</rss>
