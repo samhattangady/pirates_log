@@ -6,7 +6,16 @@
     <description>Recent content in Logs on Konkan Coast Pirate Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jan 2022 20:12:21 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/logs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jan 2022 16:03:44 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/5/</link>
+      <pubDate>Thu, 13 Jan 2022 16:03:44 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/5/</guid>
+      <description>Implemented the dialogue system into the game, along with ability to choose dialogue options. Updated the buttons in game to reflect how many commands are available to be used.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://notebook.samhattangady.com/logs/4/</link>
