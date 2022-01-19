@@ -6,7 +6,16 @@
     <description>Recent content on Konkan Coast Pirate Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jan 2022 19:43:20 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jan 2022 20:41:33 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://notebook.samhattangady.com/logs/8/</link>
+      <pubDate>Wed, 19 Jan 2022 20:41:33 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/8/</guid>
+      <description>Started implementing paths in the game. There are some units who will stick to certain paths, and the challenge will then be how to manipulate them to attain your goal.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://notebook.samhattangady.com/logs/7/</link>
