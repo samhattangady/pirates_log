@@ -6,7 +6,16 @@
     <description>Recent content on Konkan Coast Pirate Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jan 2022 20:41:33 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 12:20:22 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9</title>
+      <link>https://notebook.samhattangady.com/logs/9/</link>
+      <pubDate>Thu, 20 Jan 2022 12:20:22 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/9/</guid>
+      <description>Polished up some of the path creation process. We also now have tokens (like navy ships) that will follow the path that they are assigned to.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://notebook.samhattangady.com/logs/8/</link>
