@@ -6,7 +6,16 @@
     <description>Recent content in Logs on Konkan Coast Pirate Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jan 2022 12:20:22 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/logs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jan 2022 19:06:00 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10</title>
+      <link>https://notebook.samhattangady.com/logs/10/</link>
+      <pubDate>Fri, 21 Jan 2022 19:06:00 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/logs/10/</guid>
+      <description>We now have navy ships that will sink pirate ships that are adjacent to them. Also started work on lerping between shapes.</description>
+    </item>
+    
     <item>
       <title>9</title>
       <link>https://notebook.samhattangady.com/logs/9/</link>
