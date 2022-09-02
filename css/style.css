@@ -106,6 +106,8 @@ body {
 .screener1 {
     max-width: 500px;
     width: 80vw;
+    height: 45vw;
+    max-height: 281.25px;
 }
 #welcome {
     text-align: center;

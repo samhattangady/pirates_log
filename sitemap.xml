@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://notebook.samhattangady.com/logs/18/</loc>
-    <lastmod>2022-02-22T20:09:57+05:30</lastmod>
+    <loc>https://notebook.samhattangady.com/logs/21/</loc>
+    <lastmod>2022-09-02T19:30:34+05:30</lastmod>
   </url><url>
     <loc>https://notebook.samhattangady.com/</loc>
-    <lastmod>2022-02-22T20:09:57+05:30</lastmod>
+    <lastmod>2022-09-02T19:30:34+05:30</lastmod>
   </url><url>
     <loc>https://notebook.samhattangady.com/logs/</loc>
+    <lastmod>2022-09-02T19:30:34+05:30</lastmod>
+  </url><url>
+    <loc>https://notebook.samhattangady.com/logs/20/</loc>
+    <lastmod>2022-09-01T19:29:02+05:30</lastmod>
+  </url><url>
+    <loc>https://notebook.samhattangady.com/logs/19/</loc>
+    <lastmod>2022-08-31T19:26:58+05:30</lastmod>
+  </url><url>
+    <loc>https://notebook.samhattangady.com/posts/big_pivot/</loc>
+    <lastmod>2022-06-06T09:38:07+05:30</lastmod>
+  </url><url>
+    <loc>https://notebook.samhattangady.com/posts/</loc>
+    <lastmod>2022-06-06T09:38:07+05:30</lastmod>
+  </url><url>
+    <loc>https://notebook.samhattangady.com/logs/18/</loc>
     <lastmod>2022-02-22T20:09:57+05:30</lastmod>
   </url><url>
     <loc>https://notebook.samhattangady.com/logs/17/</loc>
@@ -54,9 +69,6 @@
     <lastmod>2022-01-12T20:12:21+05:30</lastmod>
   </url><url>
     <loc>https://notebook.samhattangady.com/posts/init/</loc>
-    <lastmod>2022-01-12T19:38:07+05:30</lastmod>
-  </url><url>
-    <loc>https://notebook.samhattangady.com/posts/</loc>
     <lastmod>2022-01-12T19:38:07+05:30</lastmod>
   </url><url>
     <loc>https://notebook.samhattangady.com/logs/3/</loc>
