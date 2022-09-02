@@ -121,10 +121,6 @@ So the same approach of multiple sections does not
 work out, as adding additional commands tends to make the puzzle noisy and allows for
 trivial level breaks.
 
-Some levels were both interesting and difficult. But I think that teaching the player all
-of the base mechanics required to appreciate difficult+interesting is a bit beyond my
-skill level as a designer. 
-
 ## The New Direction
 
 I think I was trying to build a game that I envisioned, instead of allowing the game to build itself.
@@ -135,11 +131,11 @@ The levels are now a lot easier. The harder levels are much more optional. There
 levels, but the basics of the game can be enjoyed without needing to master, or even be aware of them.
 
 Somehow, without meaning to, I think I have found a sweet spot in between Portal and SSR. Most of it is
-because of having a lot of optional levels. But that's just how the game is. Mechanics
-introduced later in the game are interesting on a standalone basis, without really needing to interact
-with the earlier mechanics. So I think it is valuable to allow players that have not yet mastered the
-previous mechanics to explore and have fun in later parts of the game too.
+because of having a lot of optional levels. But that's just how the game is. 
 
+While the most interesting parts definitely have that combinatorial explosion that all the 
+mechanics can provide together, the mechanics introduced later on in the game have some beautiful
+emergent properties on their own, and I would love for players to have a chance to explore them.
 
 ## In Conclusion
 
