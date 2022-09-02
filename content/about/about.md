@@ -1,6 +1,6 @@
 ---
 title: "About Main Page. Rest will now work"
-comment: "hugo was behaving wierdly. so this is being rendered in list view? don't create other mds in this filder. they will not render."
+comment: "hugo was behaving wierdly. so this is being rendered in list view? don't create other mds in this folder. they will not render."
 ---
 
 Konkan Coast Pirate Solutions is a puzzle game about a bunch of boys
@@ -33,4 +33,4 @@ Development began somewhere in the middle of 2021, and was on-and-off for
 the rest of the year. Development picked up again in earnest near the end
 of 2021, and moving forward, the effort will hopefully remain continuous.
 
-Up until now, the development is being mostly led by me, Samarth.
+Up until now, the development is being mostly done by me, Samarth.
