@@ -28,7 +28,9 @@ A bit about puzzle game design philosophy.
 
 ## Portal
 
-![Portal Poster](https://cdn.akamai.steamstatic.com/steam/apps/400/header.jpg?t=1608593358)
+<div class="image-centered-container">
+<img class="image" src="https://cdn.akamai.steamstatic.com/steam/apps/400/header.jpg?t=1608593358" alt="Portal Poster"/>
+</div>
 
 [Portal](https://store.steampowered.com/app/400/Portal/) is probably one of the most well-known
 "thinky-puzzle" games out there. It represents one philosophy of puzzle game development.
@@ -49,7 +51,9 @@ you allow all of them to finish and enjoy the game. That certainly has a lot of 
 
 ## Stephen Sausage Roll
 
-![Stephen Sausage Roll Poster](https://cdn.akamai.steamstatic.com/steam/apps/353540/header.jpg?t=1589230122)
+<div class="image-centered-container">
+<img class="image" src="https://cdn.akamai.steamstatic.com/steam/apps/353540/header.jpg?t=1589230122" alt="Stephen Sausage Roll Poster"/>
+</div>
 
 [Stephen Sausage Roll](https://store.steampowered.com/app/353540/Stephens_Sausage_Roll/) is
 in my opinion, one of the finest games ever made. The puzzles are really designed to highlight
