@@ -254,6 +254,14 @@ h3 {
     color: #9c95a2;
 }
 
+.image-centered-container {
+  display: flex;
+  justify-content: center;
+}
+.image {
+  max-width: 300px;
+}
+
 a {
     color: #3399cc;
     text-decoration: none;
