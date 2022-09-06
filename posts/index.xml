@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Konkan Coast Pirate Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 09:38:07 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 16:49:50 +0530</lastBuildDate><atom:link href="https://notebook.samhattangady.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Swift Kick in the Backside</title>
+      <link>https://notebook.samhattangady.com/posts/turnaround/</link>
+      <pubDate>Mon, 05 Sep 2022 16:49:50 +0530</pubDate>
+      
+      <guid>https://notebook.samhattangady.com/posts/turnaround/</guid>
+      <description>Working on a game alone can be an exhilerating experience. There are no limits to what you can do. No ideas are too far fetched, and no excuses are good enough. The concept of a roadblock cannot exist because you can always jump over and resolve it. A bug in the engine that pops up while designing levels can immediately be squashed by quickly stepping over the offending code, and updating the parameters in the function call.</description>
+    </item>
+    
     <item>
       <title>Changing Directions</title>
       <link>https://notebook.samhattangady.com/posts/big_pivot/</link>
