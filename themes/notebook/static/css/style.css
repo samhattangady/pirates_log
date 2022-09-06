@@ -89,6 +89,7 @@ body {
     height: 120px;
     animation: sailing 8s linear infinite, rocking 3.3s infinite, bobbing 2.3s infinite;
     position: absolute;
+    z-index: -1;
 }
 .ocean {
     position: absolute;
@@ -98,6 +99,7 @@ body {
     left: 0;
     mask-image: linear-gradient(to right, #00000000, rgba(0,0,0,1), rgba(0,0,0,0));
     -webkit-mask-image: linear-gradient(to right, #00000000, rgba(0,0,0,1), rgba(0,0,0,0));
+    z-index: -2;
 }
 .screener-container {
     display: flex;
