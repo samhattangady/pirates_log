@@ -7,6 +7,7 @@ body {
     justify-content: center;
     background-color: #fff;
     color: #444;
+    font-size: 20px;
 }
 
 .centeralign {
@@ -18,7 +19,7 @@ body {
 }
 
 .content {
-    max-width: 600px;
+    max-width: 660px;
     padding-left: 1em;
     padding-right: 1em;
 }
@@ -28,7 +29,7 @@ body {
     justify-content: center;
 }
 .header-container {
-    max-width: 386px;
+    max-width: 395px;
 }
 .header {
     height: 9em;
@@ -40,7 +41,7 @@ body {
 }
 .header-text {
     font-family: "Sanchez", serif;
-    font-size: 2.88em;
+    font-size: 2em;
     text-decoration: none;
     cursor: pointer;
     letter-spacing: 1.5px;
@@ -88,6 +89,7 @@ body {
     height: 120px;
     animation: sailing 8s linear infinite, rocking 3.3s infinite, bobbing 2.3s infinite;
     position: absolute;
+    z-index: -1;
 }
 .ocean {
     position: absolute;
@@ -97,6 +99,7 @@ body {
     left: 0;
     mask-image: linear-gradient(to right, #00000000, rgba(0,0,0,1), rgba(0,0,0,0));
     -webkit-mask-image: linear-gradient(to right, #00000000, rgba(0,0,0,1), rgba(0,0,0,0));
+    z-index: -2;
 }
 .screener-container {
     display: flex;
@@ -104,10 +107,10 @@ body {
     padding-top: 2em;
 }
 .screener1 {
-    max-width: 500px;
+    max-width: 660px;
     width: 80vw;
     height: 45vw;
-    max-height: 281.25px;
+    max-height: 371.25px;
 }
 #welcome {
     text-align: center;
@@ -226,7 +229,7 @@ h1 {
     font-family: "Sanchez", serif;
     color: #3399cc;
     font-weight: 400;
-    font-size: 2.0em;
+    font-size: 1.5em;
     margin-bottom: 0.5em;
 }
 
@@ -235,7 +238,7 @@ h2 {
     font-family: "Sanchez", serif;
     color: #3399cc;
     font-weight: 400;
-    font-size: 1.5em;
+    font-size: 1.3em;
     margin-bottom: 0.5em;
 }
 
